@@ -146,7 +146,9 @@ public class fmDangNhap extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new fmDangNhap().setVisible(true);
+                fmDangNhap fDn = new fmDangNhap();
+                fDn.setLocationRelativeTo(null);
+                fDn.setVisible(true);
             }
         });
     }

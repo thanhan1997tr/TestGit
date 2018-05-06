@@ -3,8 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/Java_Nhom/UngDungThi/QuanLyQuanCf/src/PL/fmManager.java</file>
-            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/Java_Nhom/UngDungThi/QuanLyQuanCf/src/PL/fmDangNhap.java</file>
+            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/TestGit/UngDungThi/QuanLyQuanCf/src/DAO/NhanVienDAO.java</file>
+            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/TestGit/UngDungThi/QuanLyQuanCf/src/DAO/DBConnect.java</file>
+            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/TestGit/UngDungThi/QuanLyQuanCf/src/PL/fmDangNhap.java</file>
+            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/TestGit/UngDungThi/QuanLyQuanCf/src/BUS/NhanVienBUS.java</file>
+            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/TestGit/UngDungThi/QuanLyQuanCf/src/DAO/DangNhap.java</file>
+            <file>file:/H:/OneDrive%20-%20ntu.edu.vn/HocTap/Java/Kho_thanhan97tr/TestGit/UngDungThi/QuanLyQuanCf/src/PL/fmAdmin.java</file>
         </group>
     </open-files>
 </project-private>
